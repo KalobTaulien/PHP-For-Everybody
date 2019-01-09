@@ -1,0 +1,41 @@
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*~
+*.todo
+
+# Tags file
+/tags
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# OS generated files
+.DS_Store*
+thumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vimcache
+.vscode
+
+# Course files
+*.mp3
+*.mp4
+*.au
+*.png
+*.aup
+*.jpg
+*.dat
+*.plist
+*.mov
+*.wav
