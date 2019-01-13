@@ -1,5 +1,5 @@
 # PHP For Everybody
-[phpforeverybody.com](http://phpforeverybody.com) | [Skillshare (2 months free)](https://skl.sh/2KLn0Qd) | Udemy (link pending)
+[phpforeverybody.com](http://phpforeverybody.com) | [Skillshare (2 months free)](https://skl.sh/2KLn0Qd) | [Udemy $13.99](https://www.udemy.com/php-for-everybody/?couponCode=GITHUB)
 
 ### Learn PHP From Scratch 
 Over 45 video lessons on PHP. Some of the subject's you'll learn include: 
