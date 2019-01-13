@@ -1,0 +1,12 @@
+version: '2'
+services:
+  backend:
+    network_mode: "bridge"
+    container_name: learn_php
+    image: learn_php_image
+    ports:
+      - "8000:80"
+    volumes:
+      - ${WINDIR}.:/var/www/html
+    stdin_open: true
+    command: /opt/entry.sh
