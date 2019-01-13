@@ -37,7 +37,7 @@ You can Download this repository as a .zip and extract the files. Or use `git cl
 There's a "Fork" icon at the top right of this page. Click that, and GitHub will copy this repository into your account where you can modify anything you like. 
 
 ### Using Docker instead of XAMPP/MAMP/etc.
-You'll need `docker` and `docker-compose` installed on your computer. Clone this repo. `cd` into this repo and run `make build` and then `make up`. Once that's done installing if you type `docker container ls -a` you'll see your active docker containers. 
+You'll need `docker` and `docker-compose` installed on your computer. Clone this repo. `cd` into this repo and run `make build` and then `make up`. Once that's done installing if you type `docker container ls -a` you'll see your active docker containers. More details in the full repo at [PHP-Docker](https://github.com/KalobTaulien/PHP-Docker)
 
 If this entire section either confused you or scared you, feel free to ignore it. The Docker setup is entirely optional for this course.
 
